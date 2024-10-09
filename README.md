@@ -1,5 +1,5 @@
 # PRF-final--course-work
-STOCK MANAGMENT SYSTEM
+PRF FINAL COURSE WORK
 
 Memory updated
 Here’s an overview of your Stock Management System, highlighting its key features and how it operates:
